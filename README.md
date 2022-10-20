@@ -6,5 +6,5 @@ could be populated and generates a valid Json document for pushing to ORCID. Thi
 
 We have made a couple of videos demonstrating how we are using this API at the EMSL facility
 
-* [Collecting ORCID IDs at EMSL](https://vimeo.com/273234758)
-* [Research Resources at EMSL](https://vimeo.com/341866045)
+* [Collecting ORCID IDs at EMSL](https://vimeo.com/273234758/7688f969f5)
+* [Research Resources at EMSL](https://vimeo.com/341866045/33f3eb81f2)
